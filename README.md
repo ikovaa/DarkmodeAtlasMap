@@ -10,3 +10,5 @@ Credits:
 
 Instructions:
 Drag "map-darkatlas" out of the "Fivem Resource" folder into your Resources and add it to your server cfg like any other script!
+
+Screenshot: https://i.gyazo.com/4bf7e9b25df8ba9336f6ae9bfaab5ccf.jpg
